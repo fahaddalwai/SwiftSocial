@@ -1,2 +1,2 @@
 # SwiftSocial
- Social Media app built using Swift. 
+A social media app for developers built using Swift and SwiftUI. Backend runs entirely on Firebase!
